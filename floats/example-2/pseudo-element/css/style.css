@@ -1,0 +1,8 @@
+h1::after {
+    content: " - This content is added from css - AFTER";
+    color: cornflowerblue;
+}
+h1::before {
+    content: "This content is added from css - BEFORE - ";
+    color: coral;
+}
